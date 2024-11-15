@@ -1,0 +1,9 @@
+service:
+  name: FirstPackage
+  identifier: FirstPackage
+  serviceDefinition:
+    type: WinRm
+    spec: {}
+  gitOpsEnabled: false
+  orgIdentifier: default
+  projectIdentifier: default_project
